@@ -23,6 +23,7 @@ from astropy import units as u
 import pyregion
 import pylab as pl
 import aplpy
+import radio_beam
 
 # Read the FITS cube
 # And change the units back to Hz
